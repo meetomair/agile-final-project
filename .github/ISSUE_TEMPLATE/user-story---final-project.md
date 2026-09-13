@@ -1,5 +1,5 @@
 ---
-name: User Story
+name: User Story - Final Project
 about: User story template for the Final Project
 title: ''
 labels: ''
